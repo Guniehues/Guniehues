@@ -1,5 +1,6 @@
 - Hi, I’m Gustavo Niehues
-- I’m currently learning Java
+- I’m a student for UEM and coursing Software Engeneering
+- Hwre i am going to post some of the code i create and some projects
 - I’m looking to collaborate on new projects to learn more
 - How to reach me gustavoaniehues@gmail.com
 
